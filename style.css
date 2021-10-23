@@ -19,9 +19,9 @@ body{
 }
 main{
     background: url(imagens/bground1.svg) no-repeat center/cover;
-     width:300px;
+    width:100vw;
     min-height: 812px;
-    height: 500px; 
+    height: 116vw;
    
 }
 .container{
